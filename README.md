@@ -1,3 +1,3 @@
-# bash-scripts
+# bash-awesome
 
 Useful bash scripts
